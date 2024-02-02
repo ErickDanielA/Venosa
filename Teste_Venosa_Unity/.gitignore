@@ -1,0 +1,47 @@
+/ [ Ll ] biblioteca /
+/ [ Tt ] emp /
+/ [ Oo ] bj /
+/ [ Bb ] construção /
+/ [ Bb ] constrói /
+/ [ Ll ] ogs /
+/ [ Mm ] emoryCaptures /
+
+!/ [ Aa ] define /**/ *. meta
+ 
+[ Aa ] conjuntos / Plugins / Editor / JetBrains *
+ 
+. contra /
+ 
+. gradle /
+ 
+ExportadoObj /
+. cônsul /
+*. csproj
+*. projeto de unidade
+*. sln
+*. suo
+*. tmp
+*. do utilizador
+*. preferências do usuário
+*. pidb
+*. booproj
+*. SVD
+*. pdb
+*. mdb
+*. opendb
+*. vc . banco de dados
+ 
+# Meta arquivos gerados pelo Unity3D
+*. pidb . meta
+*. pdb . meta
+*. mdb . meta
+ 
+# Arquivo gerado pelo Unity3D em relatórios de falhas
+sysinfo . TXT
+ 
+# Construções
+*. APK
+*. pacote de unidade
+ 
+#Arquivo gerado pelo Crashlytics
+crashlytics - compilação . propriedades
