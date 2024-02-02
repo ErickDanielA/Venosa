@@ -1,14 +1,10 @@
 //Importa o módulo express
 const express = require('express');
-//Importa o módulo cors
-// const cors = require('cors');
 //Instância o express
 const app = express();
 //Crio qual vai ser a porta que o servidor será exibido
 const port = 3001;
 
-//
-// app.use(cors());
 
 app.get('/random-color', (req, res) => {
   const randomColor = getRandomColor();
